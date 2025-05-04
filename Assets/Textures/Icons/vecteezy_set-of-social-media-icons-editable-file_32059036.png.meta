@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 9b0a2e65c606a564b8cf2644ed352b42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3583544514918771615
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_0
+  - first:
+      213: 1548629244105274416
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_1
+  - first:
+      213: -887506543011494951
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_2
+  - first:
+      213: 3728878001311035174
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_3
+  - first:
+      213: 2353883248711609480
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_4
+  - first:
+      213: -5879718165310727818
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_5
+  - first:
+      213: 5671580029278296135
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_6
+  - first:
+      213: -2832208190866127128
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_7
+  - first:
+      213: 8587992525069355314
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_8
+  - first:
+      213: 7628445741758667044
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_9
+  - first:
+      213: 8127403103102367331
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_10
+  - first:
+      213: -6853151407943169825
+    second: vecteezy_set-of-social-media-icons-editable-file_32059036_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_0
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2799
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16497770041b44ec0800000000000000
+      internalID: -3583544514918771615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_1
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2799
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0343dafa716dd7510800000000000000
+      internalID: 1548629244105274416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_2
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 2799
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d307f75081fea3f0800000000000000
+      internalID: -887506543011494951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_3
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2799
+        width: 983
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa9e629c2afb330800000000000000
+      internalID: 3728878001311035174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1645
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca232e75caaa020800000000000000
+      internalID: 2353883248711609480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_5
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1645
+        width: 983
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6791e311b7b076ea0800000000000000
+      internalID: -5879718165310727818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_6
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1645
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481550ccff75be40800000000000000
+      internalID: 5671580029278296135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_7
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1645
+        width: 983
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e60975f7a9f1b8d0800000000000000
+      internalID: -2832208190866127128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 490
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239087e43bdae2770800000000000000
+      internalID: 8587992525069355314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_9
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 490
+        width: 983
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ddd12cfeadd960800000000000000
+      internalID: 7628445741758667044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_10
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 490
+        width: 982
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366f2dabf065ac070800000000000000
+      internalID: 8127403103102367331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_set-of-social-media-icons-editable-file_32059036_11
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 490
+        width: 983
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84491aa17b4e0a0800000000000000
+      internalID: -6853151407943169825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
