@@ -1,4 +1,4 @@
-🧩Yapay Zeka ve Teknoloji Akademisi - GameJam 2025 Üçüncüsü | Stairs of Time
+🧩Yapay Zeka ve Teknoloji Akademisi - GameJam 2025 Üçüncüsü 🥉 | Stairs of Time
 
 🎬 Tanıtım: https://youtu.be/96dg9Zw9ghQ
 
